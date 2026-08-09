@@ -86,10 +86,10 @@
 
 ---
 
-### 🧱 3D Contribution Graph
+### 🪐 Tech Orbit
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/profile-south-season-animate.svg" alt="3D contribution graph"/>
+  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/main/assets/tech-orbit.svg" alt="Tech stack orbit"/>
 </p>
 
 ---
