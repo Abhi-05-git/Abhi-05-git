@@ -89,7 +89,7 @@
 ### 🧱 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/profile-season.svg" alt="3D contribution graph"/>
+  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/profile-south-season-animate.svg" alt="3D contribution graph"/>
 </p>
 
 ---
