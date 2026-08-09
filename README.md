@@ -1,13 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Abhishek%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18"/>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/main/assets/banner.svg" alt="Abhishek Tripathi"/>
 </p>
 
 <p align="center">
@@ -94,10 +86,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🧱 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 </p>
 
 ---
