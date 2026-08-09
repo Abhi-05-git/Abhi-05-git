@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | Building scalable, user-centric web apps</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Abhishek%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,9 +7,17 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
   <a href="mailto:at5642tripathi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/New%20Delhi-India-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhi-05-git&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -78,17 +85,31 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-05-git&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Abhi-05-git&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-05-git&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhi-05-git&theme=tokyonight" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
+
+### 🌊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-05-git&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer"/>
 
 <p align="center"><i>Thanks for visiting my profile! Let's build something great. 🚀</i></p>
