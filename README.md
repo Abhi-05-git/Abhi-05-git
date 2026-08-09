@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/main/assets/banner.svg" alt="Abhishek Tripathi"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/main/assets/dev-card.svg" alt="Abhishek Tripathi"/>
 </p>
 
 <p align="center">
@@ -82,14 +82,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-05-git&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-### 🪐 Tech Orbit
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/main/assets/tech-orbit.svg" alt="Tech stack orbit"/>
 </p>
 
 ---
