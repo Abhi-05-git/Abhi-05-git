@@ -6,7 +6,7 @@
   <a href="mailto:at5642tripathi@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-08080c?style=flat-square&logo=gmail&logoColor=818cf8&labelColor=08080c"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/abhishek-tripathi-82542a230/">
     <img src="https://img.shields.io/badge/LINKEDIN-08080c?style=flat-square&logo=linkedin&logoColor=818cf8&labelColor=08080c"/>
   </a>
   <img src="https://img.shields.io/badge/NEW_DELHI,_INDIA-08080c?style=flat-square&labelColor=08080c&color=08080c"/>
