@@ -38,29 +38,63 @@ Responsive spiritual website · Improved SEO and user engagement
 
 Featured Projects
 
-Project
+<p align="center">
+  A selection of projects showcasing my work across web development, platforms, and application systems.
+</p>
 
-Description
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-AI Mock Interview Platform
+01 · AI Mock Interview Platform
 
-Real-time voice interaction with performance analytics
+Real-time voice interaction with performance analytics.
 
-IEEE Conference Website
+</td>
+<td width="50%" valign="top">
 
-Official site for GBU's IEEE International Conference (2025 & 2026)
+02 · IEEE Conference Website
 
-GBU Incubation Center Platform
+Official website for GBU's IEEE International Conference (2025 & 2026).
 
-Web platform for the university's incubation center
+</td>
 
-Central Computer Center Admin Panel
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-Admin dashboard for university computer systems
+03 · GBU Incubation Center Platform
 
-University Timetable Management System
+Web platform developed for the university's incubation center.
 
-PHP-backed academic scheduling system
+</td>
+<td width="50%" valign="top">
+
+04 · Central Computer Center Admin Panel
+
+Admin dashboard for university computer systems.
+
+</td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+05 · University Timetable Management System
+
+PHP-backed academic scheduling system.
+
+</td>
+<td width="50%" valign="top">
+
+More Projects
+
+More projects and work are continuously being added to my GitHub profile.
+
+</td>
+
+  </tr>
+</table>
 
 <br/>
 
