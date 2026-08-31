@@ -20,7 +20,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: bg_color=08080c&color=818cf8&line=818cf8&point=f8fafc&area=true&area_color=818cf8&hide_border=true&height=420
+          options: bg_color=08080c&color=818cf8&line=818cf8&point=f8fafc&area=true&area_color=818cf8&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
