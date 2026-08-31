@@ -185,7 +185,7 @@ More projects, experiments, and development work are continuously being added to
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-05-git&hide_border=true&bg_color=08080c&color=818cf8&line=818cf8&point=f8fafc&area=true&area_color=818cf8"/>
+  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/activity-graph.svg" alt="GitHub Activity Graph"/>
 </p>
 
 <br/>
