@@ -185,7 +185,7 @@ More projects, experiments, and development work are continuously being added to
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/activity-graph.svg" alt="GitHub Activity Graph"/>
+  <img width="100%" height="420" src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/activity-graph.svg" alt="GitHub Activity Graph"/>
 </p>
 
 <br/>
