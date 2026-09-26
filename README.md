@@ -193,11 +193,7 @@ More projects, experiments, and development work are continuously being added to
 
 <p align="center">
   <a href="https://github.com/Abhi-05-git">
-    <img
-      width="100%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-05-git&bg_color=08080c&color=cbd5e1&line=818cf8&point=f8fafc&area=true&area_color=818cf8&hide_border=true&custom_title=Contribution%20Activity"
-      alt="Abhishek Tripathi's GitHub contribution activity graph"
-    />
+    View my GitHub contribution activity →
   </a>
 </p>
 
