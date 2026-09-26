@@ -185,7 +185,26 @@ More projects, experiments, and development work are continuously being added to
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-05-git/Abhi-05-git/output/activity-graph.svg" alt="GitHub Activity Graph"/>
+  <strong>📈 Contribution Activity</strong><br/>
+  <sub>Consistent learning, building, and open-source collaboration.</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Abhi-05-git">
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-05-git&bg_color=08080c&color=cbd5e1&line=818cf8&point=f8fafc&area=true&area_color=818cf8&hide_border=true&custom_title=Contribution%20Activity"
+      alt="Abhishek Tripathi's GitHub contribution activity graph"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abhi-05-git?tab=overview&from=2022-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-818cf8?style=for-the-badge&labelColor=08080c" alt="View GitHub activity"/>
+  </a>
 </p>
 
 <br/>
